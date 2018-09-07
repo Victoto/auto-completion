@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
 
 // components
 import AutoCompletionBox from "./components/auto-completion-box";

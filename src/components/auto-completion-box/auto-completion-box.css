@@ -1,6 +1,5 @@
 
-
-.box {
+.page {
   display: flex;
   flex-flow: column;
   justify-content: space-between;
@@ -8,7 +7,22 @@
 }
 
 .textArea {
-  height: 50vh;
+  height: 30vh;
   width: 60vw;
   font-size: 20px;
+  margin-top: 50px;
+}
+
+.seperateBoxOption {
+  margin-top: 50px;
+}
+
+.boxRow {
+  margin-top: 30px;
+}
+
+.input {
+  margin-left: 50px;
+  font-size: 20px;
+  width: 300px;
 }
